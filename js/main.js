@@ -1,6 +1,6 @@
 
 const api = "https://magi.duinocoin.com";
-if (!window.location.href.includes("magi.duinocoin.com")) window.location.href = "https://magi.duinocoin.com/";
+if (!window.location.href.includes("zapex.xyz")) window.location.href = "https://zapex.xyz/";
 
 String.prototype.escape = function() {
     var tagsToReplace = {

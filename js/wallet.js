@@ -1,8 +1,8 @@
 
 let username, password, address, captcha, captchainfo, email, passwordConfirm, priv_key;
 const api = "https://magi.duinocoin.com";
-if (!window.location.href.includes("magi.duinocoin.com"))
-	window.location.href = "https://magi.duinocoin.com/";
+if (!window.location.href.includes("zapex.xyz"))
+	window.location.href = "https://zapex.xyz/";
 
 let adBlockEnabled = false;
 const googleAdUrl =
