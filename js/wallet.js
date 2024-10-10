@@ -1,6 +1,6 @@
 
 let username, password, address, captcha, captchainfo, email, passwordConfirm, priv_key;
-const api = "https://magi.duinocoin.com";
+const api = "https://zapex.xyz";
 if (!window.location.href.includes("zapex.xyz"))
 	window.location.href = "https://zapex.xyz/";
 
